@@ -178,7 +178,7 @@ nav {
     width: 248px;
     border-width: 1px;
     border-color: white;
-    background-image: URL(https://github.com/Mr-Rex69/catube/blob/main/jjk.jpg);
+    background-image: url(https://github.com/Mr-Rex69/catube/blob/main/jjk.jpg);
     box-shadow: 0px 0px 0px;
     position: relative;
 }
